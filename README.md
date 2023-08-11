@@ -57,7 +57,10 @@ Challenge ONE Backend
 <hr>
 <ul>
   <li>
-    
+    Java 
+  </li>
+  <li>
+    Git
   </li>
 </ul>
 
